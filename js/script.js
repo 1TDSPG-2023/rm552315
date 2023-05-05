@@ -63,12 +63,17 @@ let frutas = ["banana", "maça", "pêra", "uva", "melancia", "ameixa", "morango"
 //remover um item precisamos  da posição e a quantdad de indices  que bão ser removidos
 
 
-let indice = frutas.indexOf("ameixa");
-console.log(indice);
-console.log(`FRUTA QUE ESTAVA NO INDICE ANTES DA REMOÇÃO: ${frutas[indice]}`);
-frutas.splice(indice,1);
-console.log(`FRUTA QUE FICOU NO INDICE ANTES DA REMOÇÃO: ${frutas[indice]}`);
+// let indice = frutas.indexOf("ameixa");
+// console.log(indice);
+// console.log(`FRUTA QUE ESTAVA NO INDICE ANTES DA REMOÇÃO: ${frutas[indice]}`);
+// frutas.splice(indice,1);
+// console.log(`FRUTA QUE FICOU NO INDICE ANTES DA REMOÇÃO: ${frutas[indice]}`);
 
-frutas.forEach((fruta)=>{
-    console.log(`olha ela: ${fruta}`);
-})
+// frutas.forEach((fruta)=>{
+//     console.log(`olha ela: ${fruta}`);
+// })
+
+let nr1 = [1,2,3,4,5,];
+let nr2 = [6,7,8,9,10];
+
+let
