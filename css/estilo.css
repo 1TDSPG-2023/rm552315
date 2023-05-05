@@ -48,8 +48,10 @@
     Adicione a propriedade Flex-Wrap:wrap
     Largura máxima de 800px.
     Margen: Topo e Botom:0 / Left e Right :auto
+
     vw = view width
     vh = view height
+
 */
 .conteudo {
     display: flex;
